@@ -1,0 +1,1216 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css
+File Name: C:\Downloaded Web Sites\www.billthebear.com\npm\bootstrap-icons@1.11.3\font\bootstrap-icons.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/fonts/bootstrap-icons.woff2?dd67030699838ea613ee6dbda90effa6
+File Name: C:\Downloaded Web Sites\www.billthebear.com\npm\bootstrap-icons@1.11.3\font\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/fonts/bootstrap-icons.woff?dd67030699838ea613ee6dbda90effa6
+File Name: C:\Downloaded Web Sites\www.billthebear.com\npm\bootstrap-icons@1.11.3\font\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js
+File Name: C:\Downloaded Web Sites\www.billthebear.com\ajax\libs\html2canvas\1.4.1\html2canvas.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap
+File Name: C:\Downloaded Web Sites\www.billthebear.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs13FvgUE.ttf
+File Name: C:\Downloaded Web Sites\www.billthebear.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs13FvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+File Name: C:\Downloaded Web Sites\www.billthebear.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf
+File Name: C:\Downloaded Web Sites\www.billthebear.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE.ttf
+File Name: C:\Downloaded Web Sites\www.billthebear.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUE.ttf
+File Name: C:\Downloaded Web Sites\www.billthebear.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+File Name: C:\Downloaded Web Sites\www.billthebear.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://www.billthebear.com/
+File Name: C:\Downloaded Web Sites\www.billthebear.com\index.htm
+Content Type: text/html
+
+Uri: https://www.billthebear.com/CSS/animation.css
+File Name: C:\Downloaded Web Sites\www.billthebear.com\CSS\animation.css
+Content Type: text/css
+
+Uri: https://www.billthebear.com/CSS/laboratory.css
+File Name: C:\Downloaded Web Sites\www.billthebear.com\CSS\laboratory.css
+Content Type: text/css
+
+Uri: https://www.billthebear.com/CSS/loading.css
+File Name: C:\Downloaded Web Sites\www.billthebear.com\CSS\loading.css
+Content Type: text/css
+
+Uri: https://www.billthebear.com/CSS/meme.css
+File Name: C:\Downloaded Web Sites\www.billthebear.com\CSS\meme.css
+Content Type: text/css
+
+Uri: https://www.billthebear.com/CSS/mobile_style.css
+File Name: C:\Downloaded Web Sites\www.billthebear.com\CSS\mobile_style.css
+Content Type: text/css
+
+Uri: https://www.billthebear.com/CSS/modal.css
+File Name: C:\Downloaded Web Sites\www.billthebear.com\CSS\modal.css
+Content Type: text/css
+
+Uri: https://www.billthebear.com/CSS/music.css
+File Name: C:\Downloaded Web Sites\www.billthebear.com\CSS\music.css
+Content Type: text/css
+
+Uri: https://www.billthebear.com/CSS/screen_style.css
+File Name: C:\Downloaded Web Sites\www.billthebear.com\CSS\screen_style.css
+Content Type: text/css
+
+Uri: https://www.billthebear.com/CSS/style.css
+File Name: C:\Downloaded Web Sites\www.billthebear.com\CSS\style.css
+Content Type: text/css
+
+Uri: https://www.billthebear.com/CSS/tablet_style.css
+File Name: C:\Downloaded Web Sites\www.billthebear.com\CSS\tablet_style.css
+Content Type: text/css
+
+Uri: https://www.billthebear.com/Fonts/COMIC.TTF
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Fonts\COMIC.TTF
+Content Type: application/x-font-ttf
+
+Uri: https://www.billthebear.com/Fonts/Cutesy.ttf
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Fonts\Cutesy.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.billthebear.com/Fonts/fonnts.com-Menco_Black.otf
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Fonts\fonnts.com-Menco_Black.otf
+Content Type: application/x-font-woff
+
+Uri: https://www.billthebear.com/Fonts/Impact.ttf
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Fonts\Impact.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.billthebear.com/Imgs/About.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\About.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/Arrow.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\Arrow.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/Arrow_down.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\Arrow_down.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/background.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\background.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/dexscreener.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\dexscreener.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/dextools.svg
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\dextools.svg
+Content Type: image/svg+xml
+
+Uri: https://www.billthebear.com/Imgs/enterButton.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\enterButton.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/exchanges/bitmart.svg
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\exchanges\bitmart.svg
+Content Type: image/svg+xml
+
+Uri: https://www.billthebear.com/Imgs/exchanges/lbank.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\exchanges\lbank.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/exchanges/Mexc.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\exchanges\Mexc.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/exchanges/poloniex.svg
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\exchanges\poloniex.svg
+Content Type: image/svg+xml
+
+Uri: https://www.billthebear.com/Imgs/footer.gif
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\footer.gif
+Content Type: image/gif
+
+Uri: https://www.billthebear.com/Imgs/Header.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\Header.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/Icon.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\Icon.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/IMG_1096.gif
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\IMG_1096.gif
+Content Type: image/gif
+
+Uri: https://www.billthebear.com/Imgs/lab.gif
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\lab.gif
+Content Type: image/gif
+
+Uri: https://www.billthebear.com/Imgs/lab.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\lab.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Backgrounds/1.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Backgrounds\1.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Backgrounds/10.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Backgrounds\10.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Backgrounds/2.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Backgrounds\2.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Backgrounds/3.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Backgrounds\3.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Backgrounds/4.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Backgrounds\4.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Backgrounds/5.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Backgrounds\5.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Backgrounds/6.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Backgrounds\6.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Backgrounds/7.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Backgrounds\7.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Backgrounds/8.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Backgrounds\8.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Backgrounds/9.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Backgrounds\9.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/1.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\1.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/10.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\10.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/11.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\11.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/12.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\12.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/13.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\13.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/14.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\14.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/15.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\15.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/16.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\16.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/17.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\17.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/18.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\18.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/19.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\19.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/2.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\2.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/20.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\20.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/21.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\21.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/22.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\22.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/23.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\23.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/24.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\24.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/25.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\25.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/26.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\26.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/27.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\27.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/28.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\28.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/29.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\29.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/3.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\3.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/30.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\30.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/31.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\31.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/32.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\32.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/33.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\33.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/34.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\34.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/35.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\35.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/36.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\36.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/37.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\37.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/4.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\4.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/5.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\5.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/6.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\6.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/7.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\7.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/8.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\8.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Clothes/9.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Clothes\9.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Eyes/1.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Eyes\1.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Eyes/10.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Eyes\10.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Eyes/11.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Eyes\11.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Eyes/2.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Eyes\2.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Eyes/3.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Eyes\3.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Eyes/4.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Eyes\4.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Eyes/5.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Eyes\5.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Eyes/6.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Eyes\6.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Eyes/7.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Eyes\7.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Eyes/8.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Eyes\8.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Eyes/9.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Eyes\9.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/1.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\1.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/10.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\10.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/11.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\11.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/12.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\12.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/13.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\13.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/14.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\14.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/15.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\15.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/16.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\16.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/17.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\17.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/18.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\18.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/19.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\19.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/2.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\2.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/20.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\20.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/21.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\21.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/22.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\22.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/23.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\23.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/24.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\24.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/25.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\25.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/26.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\26.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/3.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\3.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/4.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\4.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/5.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\5.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/6.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\6.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/7.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\7.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/8.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\8.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Glasses/9.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Glasses\9.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/1.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\1.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/10.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\10.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/11.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\11.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/12.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\12.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/13.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\13.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/14.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\14.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/15.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\15.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/16.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\16.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/17.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\17.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/18.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\18.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/19.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\19.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/2.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\2.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/20.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\20.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/21.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\21.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/22.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\22.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/23.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\23.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/24.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\24.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/25.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\25.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/26.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\26.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/27.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\27.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/28.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\28.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/29.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\29.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/3.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\3.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/30.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\30.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/31.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\31.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/32.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\32.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/33.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\33.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/34.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\34.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/35.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\35.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/4.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\4.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/5.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\5.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/6.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\6.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/7.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\7.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/8.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\8.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Hats/9.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Hats\9.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Mouths/1.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Mouths\1.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Mouths/10.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Mouths\10.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Mouths/11.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Mouths\11.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Mouths/12.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Mouths\12.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Mouths/13.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Mouths\13.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Mouths/14.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Mouths\14.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Mouths/2.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Mouths\2.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Mouths/3.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Mouths\3.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Mouths/4.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Mouths\4.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Mouths/5.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Mouths\5.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Mouths/6.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Mouths\6.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Mouths/7.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Mouths\7.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Mouths/8.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Mouths\8.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Mouths/9.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Mouths\9.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Skins/1.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Skins\1.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Skins/10.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Skins\10.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Skins/11.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Skins\11.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Skins/12.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Skins\12.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Skins/13.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Skins\13.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Skins/14.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Skins\14.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Skins/15.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Skins\15.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Skins/16.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Skins\16.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Skins/17.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Skins\17.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Skins/18.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Skins\18.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Skins/19.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Skins\19.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Skins/2.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Skins\2.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Skins/20.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Skins\20.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Skins/3.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Skins\3.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Skins/4.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Skins\4.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Skins/5.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Skins\5.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Skins/6.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Skins\6.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Skins/7.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Skins\7.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Skins/8.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Skins\8.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/laboratory/Skins/9.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\laboratory\Skins\9.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/loading.gif
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\loading.gif
+Content Type: image/gif
+
+Uri: https://www.billthebear.com/Imgs/Logo.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\Logo.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/1.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\1.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/10.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\10.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/11.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\11.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/12.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\12.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/13.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\13.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/14.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\14.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/15.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\15.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/16.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\16.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/17.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\17.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/18.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\18.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/19.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\19.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/2.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\2.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/20.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\20.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/21.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\21.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/22.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\22.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/23.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\23.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/24.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\24.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/25.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\25.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/26.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\26.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/27.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\27.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/28.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\28.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/29.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\29.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/30.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\30.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/31.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\31.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/32.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\32.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/33.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\33.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/34.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\34.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/35.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\35.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/36.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\36.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/37.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\37.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/38.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\38.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/39.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\39.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/4.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\4.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/40.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\40.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/41.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\41.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/42.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\42.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/43.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\43.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/44.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\44.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/45.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\45.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/46.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\46.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/47.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\47.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/48.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\48.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/49.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\49.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/5.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\5.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/50.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\50.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/51.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\51.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/52.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\52.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/53.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\53.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/54.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\54.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/55.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\55.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/56.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\56.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/57.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\57.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/58.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\58.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/59.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\59.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/6.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\6.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/60.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\60.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/61.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\61.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/62.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\62.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/64.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\64.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/65.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\65.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/66.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\66.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/67.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\67.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/68.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\68.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/69.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\69.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/7.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\7.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/70.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\70.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/71.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\71.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/72.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\72.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/73.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\73.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/74.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\74.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/75.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\75.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/76.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\76.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/77.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\77.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/78.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\78.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/79.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\79.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/8.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\8.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/80.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\80.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/81.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\81.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/82.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\82.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/83.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\83.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/84.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\84.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/85.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\85.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/86.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\86.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/87.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\87.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/88.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\88.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/89.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\89.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/9.webp
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\9.webp
+Content Type: image/webp
+
+Uri: https://www.billthebear.com/Imgs/memes/90.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\90.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/91.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\91.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/92.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\92.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/93.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\93.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/94.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\94.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/95.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\95.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/96.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\96.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/memes/97.png
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\memes\97.png
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/Q&A.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\Q&A.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/Imgs/Social.PNG
+File Name: C:\Downloaded Web Sites\www.billthebear.com\Imgs\Social.PNG
+Content Type: image/png
+
+Uri: https://www.billthebear.com/index.html
+File Name: C:\Downloaded Web Sites\www.billthebear.com\index.html
+Content Type: text/html
+
+Uri: https://www.billthebear.com/JS/animation.js
+File Name: C:\Downloaded Web Sites\www.billthebear.com\JS\animation.js
+Content Type: application/x-javascript
+
+Uri: https://www.billthebear.com/JS/laboratory.js
+File Name: C:\Downloaded Web Sites\www.billthebear.com\JS\laboratory.js
+Content Type: application/x-javascript
+
+Uri: https://www.billthebear.com/JS/loading.js
+File Name: C:\Downloaded Web Sites\www.billthebear.com\JS\loading.js
+Content Type: application/x-javascript
+
+Uri: https://www.billthebear.com/JS/meme.js
+File Name: C:\Downloaded Web Sites\www.billthebear.com\JS\meme.js
+Content Type: application/x-javascript
+
+Uri: https://www.billthebear.com/JS/music.js
+File Name: C:\Downloaded Web Sites\www.billthebear.com\JS\music.js
+Content Type: application/x-javascript
+
+Uri: https://www.billthebear.com/JS/script.js
+File Name: C:\Downloaded Web Sites\www.billthebear.com\JS\script.js
+Content Type: application/x-javascript
+
+Uri: https://www.billthebear.com/laboratory.html
+File Name: C:\Downloaded Web Sites\www.billthebear.com\laboratory.html
+Content Type: text/html
+
+Uri: https://www.billthebear.com/meme.html
+File Name: C:\Downloaded Web Sites\www.billthebear.com\meme.html
+Content Type: text/html
+
